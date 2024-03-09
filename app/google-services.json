@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083580974170",
+    "project_id": "cpsystem-b674e",
+    "storage_bucket": "cpsystem-b674e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083580974170:android:3dc53e261e77d64eb70463",
+        "android_client_info": {
+          "package_name": "com.example.skpi_cps_umam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBroQkrnQErzMD58MTaThR39m_NzSnrINg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
